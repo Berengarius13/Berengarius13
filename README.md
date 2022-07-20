@@ -41,7 +41,7 @@
     <a href="#"><img alt="Skikit learn/" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="24"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="24"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Flask" src=" 	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="24"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="24"></a>
     <a href="#"><img alt="JQurey" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="24"></a>
     <a href="#"><img alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" height="24"></a>
@@ -51,19 +51,18 @@
     <a href="#"><img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="24"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="24"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="24"></a>//
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="24"></a>
 </p>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berengarius13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" />
 
-<hr />
 
-|       |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berengarius13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
-| ---- | ------------------------------------------------------------ |
 
-<hr />
+<hr/>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/piyush31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Berengarius13/Berengarius13/main/assets/linkedin.svg" alt="piyush.blank" height="30" width="30" /></a>
     <a href="https://www.instagram.com/piyush_blank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Berengarius13/Berengarius13/main/assets/instagram.svg" alt="piyusn.blank" height="30" width="30" /></a>
 </p>
+<hr/>
