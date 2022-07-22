@@ -54,9 +54,9 @@
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="24"></a>
 </p>
 
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berengarius13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" />
-
+</p>
 
 
 <hr/>
