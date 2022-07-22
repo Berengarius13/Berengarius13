@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Piyush</h2>
-<h4 align="center">A geek and a pssionate developer.</h4>
+<h4 align="center">A geek and a passionate developer.</h4>
 
 - 🔭 Most Recent Project [Spam Prediction](https://github.com/Berengarius13/Spam-prediction) using deep learning. [Link](https://spam-predictionn.herokuapp.com)
 
