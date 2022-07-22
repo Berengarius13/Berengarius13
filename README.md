@@ -63,6 +63,5 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/piyush31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Berengarius13/Berengarius13/main/assets/linkedin.svg" alt="piyush.blank" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/piyush_blank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Berengarius13/Berengarius13/main/assets/instagram.svg" alt="piyusn.blank" height="30" width="30" /></a>
 </p>
 <hr/>
