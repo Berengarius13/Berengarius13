@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Piyush</h2>
 <h4 align="center">A geek and passionate developer.</h4>
 
-- 📀 Checkout my most recent project, a [3D portfolio](https://github.com/Berengarius13/portfolio-3d). [Link](https://www.piyushblank.tech/)
+- 📀 Checkout my most recent project, a [3D portfolio](https://github.com/Berengarius13/portfolio-3d). [Link](https://portfolio-3d-omega.vercel.app/)
 
 - 🔭 [Spam Guard](https://github.com/Berengarius13/Spam-prediction) your deep-learning powered Email Spam Predictor.
 
